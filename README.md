@@ -1,21 +1,18 @@
 # WS2812-Breakout
-Breakout with WS2812 intelligent RGB-LED.
+Breakouts with WS2812 intelligent RGB-LED.
 
-[![WS2812-Breakout](https://github.com/watterott/WS2812-Breakout/raw/master/hardware/WS2812-Breakout_v11.jpg)](http://www.watterott.com/en/WS2812-Breakout)
+![WS2812-Breakout](https://github.com/watterott/WS2812-Breakout/raw/master/hardware/WS2812-Breakout_v11.jpg)
+![WS2812-Stick](https://github.com/watterott/WS2812-Breakout/raw/master/hardware/WS2812-Stick_v10.jpg)
 
-[![WS2812-Stick](https://github.com/watterott/WS2812-Breakout/raw/master/hardware/WS2812-Stick_v10.jpg)](http://www.watterott.com/en/WS2812-Stick-10x-RGB-LED)
+* WS2812 RGB-LED with built-in controller with serial interface
+* 3 pin connection: VCC, GND, Data
+* Controllable with Adafruit NeoPixel Library
 
 
 ## Shop
 * [WS2812-Breakout (5 pcs)](http://www.watterott.com/en/WS2812-Breakout)
 * [WS2812-Stick with 10 RGB-LEDs](http://www.watterott.com/en/WS2812-Stick-10x-RGB-LED)
 * [WS2812-Ring](https://github.com/watterott/WS2812-Ring)
-
-
-## Features
-* WS2812 RGB-LED with built-in controller with serial interface
-* 3 pin connection: VCC, GND, Data
-* Controllable with Adafruit NeoPixel Library
 
 
 ## Hardware
