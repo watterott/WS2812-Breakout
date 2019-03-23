@@ -8,6 +8,8 @@ Breakouts with WS2812 intelligent RGB-LED.
 * 3 pin connection: VCC, GND, Data
 * Controllable with Adafruit NeoPixel Library
 * Note: for protection connect a >= 300 ohm resistor between the LED data input and controller output pin.
+* Open-Source and released under the [Creative Commons Attribution Share-Alike License](https://creativecommons.org/licenses/by-sa/4.0/).
+* **[Documentation on learn.watterott.com](https://learn.watterott.com)**
 
 
 ## Videos
